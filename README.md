@@ -1,2 +1,3 @@
-# .github
-ReadME • About Lumania.net!
+.Lumania's README!
+
+Hi there and welcome to our GitHub Organisation! 👋🌺
